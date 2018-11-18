@@ -1,6 +1,7 @@
 # Volcanoes-on-Venus
 
 ML code to detect volcanoes on Venus
+Dataset taken from https://www.kaggle.com/fmena14/volcanoesvenus
 
 Input data are 110x110 images (one row with 12100 columns) which contain none, one or more volcanoes. 
 
