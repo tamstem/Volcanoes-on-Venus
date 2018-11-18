@@ -14,6 +14,6 @@ Targets are:
 
 If  Volcano?=0, Type, Radius and Number Volcanoes have values nan
 
-First we will predict if there is a volcano in the image using CNN and then we will separate Type, Radius and Number Volcanoes for images withVolcano?=1 and predict their values:
+First we will predict if there is a volcano in the image using CNN and then we will separate Type, Radius and Number Volcanoes for images with Volcano?=1 and predict their values:
  - Type and Number Volcanoes predicted using Logistic regression
  - Radius predicted using GradientBoostingRegressor
